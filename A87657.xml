@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the taking of the city of Yorke by Sir John Hotham for the King and Parliament, Sept. 16. With the description of the battell fought between Sir Iohn Hotham and the Earle of Cumberlaud [sic], and the number of men slaine on both sides. Likewise how the Earle of Cumberland, (being pursu'd) escaped out of the citie disguised like a shepheard. Sent in a letter (by one that was an eye-witnesse) to a friend in Thames-street.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87657</idno>
+            <idno type="STC">Wing K19</idno>
+            <idno type="STC">Thomason E118_14</idno>
+            <idno type="STC">ESTC R22128</idno>
+            <idno type="EEBO-CITATION">99871600</idno>
+            <idno type="PROQUEST">99871600</idno>
+            <idno type="VID">156090</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87657)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156090)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the taking of the city of Yorke by Sir John Hotham for the King and Parliament, Sept. 16. With the description of the battell fought between Sir Iohn Hotham and the Earle of Cumberlaud [sic], and the number of men slaine on both sides. Likewise how the Earle of Cumberland, (being pursu'd) escaped out of the citie disguised like a shepheard. Sent in a letter (by one that was an eye-witnesse) to a friend in Thames-street.</title>
+                  <author>S. K.</author>
+               </titleStmt>
+               <extent>[2], [1], 4-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cooke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 20. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: "Your loving brother from Yorke, S. K." and dated: September 17. 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>York (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156090:1" rendition="simple:additions"/>
+            <p>A TRUE Relation of the taking of the City of YORKE By Sir <hi>John Hotham</hi> for the King and Parliament, <hi>Sept.</hi> 16.</p>
+            <p>With the Deſcription of the Battell fought between Sir <hi>Iohn Hotham</hi> and the Earle of <hi>Cum<g ref="char:EOLhyphen"/>berland,</hi> and the number of men ſlaine on both ſides.</p>
+            <p>Likewiſe how the Earle of <hi>Cumberland,</hi> (being purſu'd) eſcaped out of the Citie diſ<g ref="char:EOLhyphen"/>guiſed like a Shepheard.</p>
+            <p>Sent in a Letter (by one that was an eye-witneſſe) to a Friend in <hi>Thames-ſtreet.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Thomas Cooke, Sept.</hi> 20. 1642.</p>
+            <pb facs="tcp:156090:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156090:2"/>
+            <head>A True Relation of the Taking of <hi>Yorke</hi> by Sir <hi>John Hotham.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He 12. day of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> wee mar<g ref="char:EOLhyphen"/>ched with our Armie towards <hi>Yorke,</hi> where wee being no ſooner approached with in ſight, but the Inhabitants of the City with great and unſpeakable joy, flocked towards us, that we beleeved that (afarre off) they came to withſtand us; whereupon Sir <hi>John Hotham</hi> ſent 50. horſe
+<pb n="4" facs="tcp:156090:3"/>
+and 100. Foot, to know what was their intent, where being n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſooner met, but they cryed out, <hi>God bleſſe the King and Parliament, God bleſſe the King and Parlia<g ref="char:EOLhyphen"/>ment;</hi> ſo after ſome time ſpent, they all went to Sir <hi>John Hotham,</hi> and informed him how that they are diſturbed both night and day, and their Gates of the City kept ſhut, that ſcarce any could paſſe with ſecurity of his life, and how the Ca<g ref="char:EOLhyphen"/>valeers had put the City into defence a<g ref="char:EOLhyphen"/>gainſt any that ſhal come to moleſt them; whereupon Sir <hi>John Hotham</hi> gave com<g ref="char:EOLhyphen"/>mand that wee, as ſoone as wee came a<g ref="char:EOLhyphen"/>gainſt the Towne, ſhould every man ſtand to their Colours, and not ſtirre, ſo when we came to the Gates we found them ſhut and Ordnance planted be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore the Gates; whereupon Sir <hi>John Hotham</hi> demanded enrrance, but they refuſed, and ſaid they kept it fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the King, and for the peace of the County, Sir <hi>Jo. Hotham</hi> ſeeing the Gates thus ſhut againſt him, and hearing the an<g ref="char:EOLhyphen"/>ſwer
+<pb n="5" facs="tcp:156090:3"/>
+made him, he preſently commanded the Drums to beat, and prepared his ſoul<g ref="char:EOLhyphen"/>diers for Battaile againſt thoſe Cavaleers in the Towne, and made a vow to his ſoul<g ref="char:EOLhyphen"/>diers to the great encouragement of them all, that hee would have the City before the Sun went down, or elſe he would loſe his life; upon which words the ſouldiers all gave ſuch a ſhout, that they thought long to ſpeake with the Cavaleers; all this while the Gentry of <hi>Yorkeſhire</hi> ſate in con<g ref="char:EOLhyphen"/>ſultation in the Deanery with the Earle of <hi>Cumberland,</hi> and other of his Majeſties Com<g ref="char:EOLhyphen"/>miſſioners for Array, who hearing that ſir <hi>John Hotham</hi> was come to take poſſeſſion of <hi>York,</hi> for the Parliament, becauſe he is made Lieutenant of <hi>Yorkeſhire</hi> by the Par<g ref="char:EOLhyphen"/>liament, and the Earle of <hi>Cumberland</hi> had it in poſſeſsion for the King, and made Lieutenant thereof alſo, whereupon the Earle of <hi>Cumberland</hi> was very hot, and bid them ſhoot and cut them off, what came they there for.</p>
+            <p>
+               <pb n="6" facs="tcp:156090:4"/>
+Al this while, Sir <hi>Iohn Hotham</hi> and his Somldiers were making all poſſible means for the takeing of it. For afterwards he had word ſent him from ſome in the City, that he ſhould have it; and that without any blood-ſhed at all; and that they would keepe the Earle of <hi>Cumberland</hi> in the City? and he ſhoulg come in for all that the peeces was before the Gates. Therefore Sir <hi>Iohn Hotham</hi> with the reſt of his Company, began to eutrench them<g ref="char:EOLhyphen"/>ſelves againſt the City, as if that they would beſiege it; becauſe the Cavaleeres ſhould not miſtruſt the Citizens.</p>
+            <p>The Earle of <hi>Cumberland</hi> with his forces ſalied out of the Towne, towards Sir <hi>Iohn Hotham,</hi> and came into the feild with a<g ref="char:EOLunhyphen"/>bout a Hundred Horſe, and five Hundred foote which was raiſed by ſome of the County, and kept in Garriſon there.</p>
+            <p>So leaving the CITY with ſmale gaurd, beſides the Inhabitants thereof; So in a Warlike manner came marching
+<pb n="7" facs="tcp:156090:4"/>
+towards us, but we ſeeing him com<g ref="char:EOLhyphen"/>ming, prepared our ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lves, and with<g ref="char:EOLhyphen"/>ſtoode him and his Mal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnant Caveleers, for all they were more in number.</p>
+            <p>The Caveleers were v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry unmannerly, for they fell upon us and would not as much as ſpeake to us; but we were ſo mannerly as to beate them, and take away their Armes; for indeed we fought an houer and a halfe by the Cl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cke, before we could obtaine the Victory, for the weather was ſo hot, that we could not well tell how to diſpoſe of our ſelves.</p>
+            <p>At laſt, the Caveleers retreated backe, and fled away as faſt as they could to YORKE, and ſhut the Gates after them, but we purſued them ſo cloſe that we tooke away their peeces of Ordnances that lay before the Gates, and we brought them from the Gates, and planted them againſt the Towne.</p>
+            <p>And, in the meane time, the Caveleers fled away out of the City, at the other
+<pb n="8" facs="tcp:156090:5"/>
+Gates; at the ſame time Sir <hi>Iohn Hotham</hi> entred the City the Caveleers fled away, The Earle of <hi>Cumberland</hi> and the reſt of the Commiſsioners, being in the Towne, the Inhabitants would have ſtopped them, but they ſwore <hi>(Dam them)</hi> if they had not free leave, they would take leave, and make way too; The Earle of <hi>Cumberland</hi> could not tell how to paſſe or get from them, made an excuſe to goe to the houſe of <hi>Office,</hi> And there liveing a poore <hi>Sheepherd</hi> at the next backe doore, ſo the Earle of <hi>Cumberland</hi> went in thither, (and by the <hi>Sheepherdrs</hi> leave) put on his Cloathes and Coate, and his Sheep hooke with the Tarr-box hanging at the end thereof, ſo (it is reported) he paſſed through the Towne, and no body knew him, and ſo is fled to His Majeſty, but the poore Sheepherd loſt nothing by it, and now Sir <hi>Iohn Hotham</hi> keeps <hi>Yorke</hi> for the King and Parliament, and ſo for the preſent I reſt,</p>
+            <closer>
+               <signed>Your loving Brother <hi>S K.</hi>
+               </signed>
+               <dateline>From <hi>YORKE,</hi> 
+                  <date>
+                     <hi>Septtmber</hi> 17. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>EINIS.</trailer>
+      </body>
+   </text>
+</TEI>
